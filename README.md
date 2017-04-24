@@ -1,10 +1,10 @@
 # Nucleic Acids Club
 
 #### Upcoming meetings 
- + 2017/05/15 Sabeeha
- + 2017/05/08 Naoto
- + 2017/05/01 Hung
- + 2017/04/24 Debayan
+ + 2017/05/22 Sabeeha
+ + 2017/05/15 Naoto
+ + 2017/05/08 Hung
+ + 2017/05/01 Debayan
 
 #### 2017/04/17 Sabeeha
 Kinetics of polymer looping with macromolecular crowding: effects of volume fraction and crowder size  
