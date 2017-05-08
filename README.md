@@ -2,8 +2,8 @@
 
 #### Upcoming meetings 
  + 2017/05/29 Sabeeha
- + 2017/05/22 Naoto
- + 2017/05/15 Hung
+ + 2017/05/22 Naoto @ POB 2.444
+ + 2017/05/15 Hung @ Chemistry Library
 
 #### 2017/05/08 Debayan
 Dynamical Disorder in the DNA hydration shell  
