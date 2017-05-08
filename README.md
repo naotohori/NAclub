@@ -1,10 +1,13 @@
 # Nucleic Acids Club
 
 #### Upcoming meetings 
- + 2017/05/22 Sabeeha
- + 2017/05/15 Naoto
- + 2017/05/08 Hung
- + 2017/05/01 Debayan
+ + 2017/05/29 Sabeeha
+ + 2017/05/22 Naoto
+ + 2017/05/15 Hung
+
+#### 2017/05/08 Debayan
+Dynamical Disorder in the DNA hydration shell
+Duboué-Dijon et al., JACS (2016) [10.1021/jacs.6b02715](http://dx.doi.org/10.1021/jacs.6b02715)
 
 #### 2017/04/17 Sabeeha
 Kinetics of polymer looping with macromolecular crowding: effects of volume fraction and crowder size  
