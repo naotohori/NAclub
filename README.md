@@ -6,7 +6,7 @@
  + 2017/05/15 Hung
 
 #### 2017/05/08 Debayan
-Dynamical Disorder in the DNA hydration shell
+Dynamical Disorder in the DNA hydration shell  
 Duboué-Dijon et al., JACS (2016) [10.1021/jacs.6b02715](http://dx.doi.org/10.1021/jacs.6b02715)
 
 #### 2017/04/17 Sabeeha
