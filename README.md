@@ -1,9 +1,16 @@
 # Nucleic Acids Club
 
 #### Upcoming meetings 
+ + 2017/06/12 Hung
+ + 2017/06/05 Debayan
  + 2017/05/29 Sabeeha
- + 2017/05/22 Naoto @ POB 2.444
- + 2017/05/15 Hung @ Chemistry Library
+ + 2017/05/22 Naoto @ 2pm, POB 2.444
+ 
+ 
+#### 2017/05/15 Hung @ Chemistry Library
+Riboswitches and cotranscriptional folding.  
+Cf. Grilley et al., Biochem. (2007) [10.1021/bi062284r](http://dx.doi.org/10.1021/bi062284r)  
+Cf. Leipply et al., Biochem. (2011) [10.1021/bi101948k](http://dx.doi.org/10.1021/bi101948k)
 
 #### 2017/05/08 Debayan
 Dynamical Disorder in the DNA hydration shell  
