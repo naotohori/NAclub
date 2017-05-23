@@ -1,6 +1,7 @@
 # Nucleic Acids Club
 
 #### Upcoming meetings 
+ + 2017/06/19 Naoto
  + 2017/06/12 Hung
  + 2017/06/05 Debayan
  + 2017/05/29 Sabeeha
