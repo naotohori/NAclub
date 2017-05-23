@@ -4,8 +4,9 @@
  + 2017/06/12 Hung
  + 2017/06/05 Debayan
  + 2017/05/29 Sabeeha
- + 2017/05/22 Naoto @ 2pm, POB 2.444
- 
+
+#### 2017/05/22 Naoto @ 2pm, POB 2.444
+Reconstruction of atomistic model and its application to footprinting data
  
 #### 2017/05/15 Hung @ Chemistry Library
 Riboswitches and cotranscriptional folding.  
