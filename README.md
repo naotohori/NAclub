@@ -4,7 +4,7 @@
  + 2017/06/19 Hung
  + 2017/06/12 Debayan
  + 2017/06/05 Sabeeha
- + 2017/05/29 No meeting
+ + 2017/05/29 No meeting (University holiday)
 
 #### 2017/05/22 Naoto @ 2pm, POB 2.444
 Reconstruction of atomistic model and its application to footprinting data
