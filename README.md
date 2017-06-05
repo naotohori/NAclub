@@ -3,7 +3,6 @@
 #### Upcoming meetings 
  + 2017/06/19 Hung
  + 2017/06/12 Debayan
- + 2017/05/29 No meeting (University holiday)
 
 #### 2017/06/05 Sabeeha @ 2pm, POB 2.444
 Memory-induced anomalous dynamics: Emergence of diffusion, subdiffusion, and superdiffusion from a single random walk model  
