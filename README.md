@@ -3,8 +3,11 @@
 #### Upcoming meetings 
  + 2017/06/19 Hung
  + 2017/06/12 Debayan
- + 2017/06/05 Sabeeha
  + 2017/05/29 No meeting (University holiday)
+
+#### 2017/06/05 Sabeeha @ 2pm, POB 2.444
+Memory-induced anomalous dynamics: Emergence of diffusion, subdiffusion, and superdiffusion from a single random walk model  
+Kumar et al., Phys. Rev. E (2010) [10.1103/PhysRevE.82.021101](http://dx.doi.org/10.1103/PhysRevE.82.021101)
 
 #### 2017/05/22 Naoto @ 2pm, POB 2.444
 Reconstruction of atomistic model and its application to footprinting data
