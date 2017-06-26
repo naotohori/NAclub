@@ -1,8 +1,18 @@
 # Nucleic Acids Club
 
 #### Upcoming meetings 
- + 2017/06/19 Hung
- + 2017/06/12 Debayan
+ + 2017/07/24 Sabeeha
+ + 2017/07/17 No meeting
+ + 2017/07/10 No meeting
+ + 2017/07/03 Naoto
+ 
+#### 2017/06/26 Hung
+Conformations of intrinsically disordered proteins are influenced by linear sequence distributions of oppositely charged residues  
+Das and Pappu, PNAS (2013) [10.1073/pnas.1304749110](http://dx.doi.org/10.1073/pnas.1304749110)
+
+#### 2017/06/19 Debayan
+Opposing Effects of Multivalent Ions on the Flexibility of DNA and RNA  
+Drozdetski et al. and Onufriev, PRL (2016) [10.1103/PhysRevLett.117.028101](http://dx.doi.org/10.1103/PhysRevLett.117.028101)
 
 #### 2017/06/05 Sabeeha @ 2pm, POB 2.444
 Memory-induced anomalous dynamics: Emergence of diffusion, subdiffusion, and superdiffusion from a single random walk model  
