@@ -4,7 +4,10 @@
  + 2017/07/24 Sabeeha
  + 2017/07/17 No meeting
  + 2017/07/10 No meeting
- + 2017/07/03 Naoto
+
+#### 2017/07/03 Naoto
+Visualizing the secondary and tertiary architectural domains of lncRNA RepA  
+Liu, Somarowthu and Pyle (2017) [10.1038/NCHEMBIO.2272](http://dx.doi.org/10.1038/NCHEMBIO.2272)
  
 #### 2017/06/26 Hung
 Conformations of intrinsically disordered proteins are influenced by linear sequence distributions of oppositely charged residues  
