@@ -1,7 +1,8 @@
 # Nucleic Acids Club
 
-#### Upcoming meetings 
- + 2017/07/24 Sabeeha
+#### Upcoming meetings
+ + 2017/07/31 Hung
+ + 2017/07/24 Debayan
  + 2017/07/17 No meeting
  + 2017/07/10 No meeting
 
