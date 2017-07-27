@@ -2,9 +2,9 @@
 
 #### Upcoming meetings
  + 2017/07/31 Hung
- + 2017/07/24 Debayan
- + 2017/07/17 No meeting
- + 2017/07/10 No meeting
+ 
+#### 2017/07/26 Debayan
+Hoogsteen base pairing in DNA
 
 #### 2017/07/03 Naoto
 Visualizing the secondary and tertiary architectural domains of lncRNA RepA  
