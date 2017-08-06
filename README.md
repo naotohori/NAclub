@@ -1,10 +1,13 @@
 # Nucleic Acids Club
 
 #### Upcoming meetings
- + 2017/08/28 Hung
- + 2017/08/21 Debayan
- + 2017/08/14 Upayan
- + 2017/08/07 Naoto
+ + 2017/09/17 @ POB 2.444
+ + 2017/09/11 @ POB 2.444
+ + 2017/09/04 @ POB 2.444
+ + 2017/08/28 Hung @ POB 2.444
+ + 2017/08/21 Debayan @ POB 2.404B
+ + 2017/08/14 Upayan @ POB 2.444
+ + 2017/08/07 Naoto @ POB 2.444
  
 
 #### 2017/07/31 Hung
