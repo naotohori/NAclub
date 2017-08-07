@@ -1,14 +1,16 @@
 # Nucleic Acids Club
 
 #### Upcoming meetings
- + 2017/09/17 @ POB 2.444
- + 2017/09/11 @ POB 2.444
- + 2017/09/04 @ POB 2.444
- + 2017/08/28 Hung @ POB 2.444
- + 2017/08/21 Debayan @ POB 2.404B
- + 2017/08/14 Upayan @ POB 2.444
- + 2017/08/07 Naoto @ POB 2.444
- 
+ + 2017/09/17 Hung @ POB 2.444
+ + 2017/09/11 Debayan @ POB 2.444
+ + 2017/09/04 Atreya @ POB 2.444
+ + 2017/08/28 Upayan @ POB 2.444
+ + 2017/08/21 Upayan @ POB 2.404B
+ + 2017/08/14 Sumit @ POB 2.444
+
+#### 2017/08/07 Naoto @ POB 2.444
+Molecular determinants of the interactions between proteins and ssDNA  
+Mishra and Levy, PNAS (2015) [10.1073/pnas.1416355112](http://dx.doi.org/10.1073/pnas.1416355112)
 
 #### 2017/07/31 Hung
 RNA model with explicit Mg and implicit monovalent
