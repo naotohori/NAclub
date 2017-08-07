@@ -5,7 +5,7 @@
  + 2017/09/11 Debayan @ POB 2.444
  + 2017/09/04 Atreya @ POB 2.444
  + 2017/08/28 Upayan @ POB 2.444
- + 2017/08/21 Upayan @ POB 2.404B
+ + 2017/08/21 Upayan @ POB 2.404B (different room!!)
  + 2017/08/14 Sumit @ POB 2.444
 
 #### 2017/08/07 Naoto @ POB 2.444
