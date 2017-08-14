@@ -6,7 +6,13 @@
  + 2017/09/04 Atreya @ POB 2.444
  + 2017/08/28 Upayan @ POB 2.444
  + 2017/08/21 Upayan @ POB 2.404B (different room!!)
- + 2017/08/14 Sumit @ POB 2.444
+
+#### 2017/08/14 Sumit @ POB 2.444
+DNA spools under tension  
+I. M. Kulić and H. Schiessel, PRL (2004) [10.1103/PhysRevLett.92.228101](https://doi.org/10.1103/PhysRevLett.92.228101)
+
+Why Do Nucleosomes Unwrap Asymmetrically?  
+Bruin et al. and Helmut Schiessel, JPCB (2016) [10.1021/acs.jpcb.6b00391](https://doi.org/10.1021/acs.jpcb.6b00391)
 
 #### 2017/08/07 Naoto @ POB 2.444
 Molecular determinants of the interactions between proteins and ssDNA  
