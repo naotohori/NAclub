@@ -9,7 +9,7 @@
  + TBD Hung
  + 2017/09/17 Debayan @ POB 2.444
  + 2017/09/11 Atreya @ POB 2.444 
- + 2017/09/05 (Tue) Sumit @ POB 2.444
+ + 2017/09/05 Sumit @ POB 2.444 **Tuesday!!**
  
  
 #### 2017/08/28 Upayan
