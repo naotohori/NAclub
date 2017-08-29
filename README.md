@@ -7,7 +7,7 @@
 #### Upcoming meetings
  + TBD Naoto
  + TBD Hung
- + 2017/09/17 Debayan @ POB 2.444
+ + 2017/09/18 Debayan @ POB 2.444
  + 2017/09/11 Atreya @ POB 2.444 
  + 2017/09/05 Sumit @ POB 2.444 **Tuesday!!**
  
