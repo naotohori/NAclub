@@ -1,7 +1,8 @@
 # Nucleic Acids Club
  + The meeting is at 14:00 on every Monday at POB 2.444 unless otherwise noted.
  + The talk would be either speaker's own research (any preliminary and/or technical stuff is good) or introductions of other's paper(s).
- + It is preferable that the subject of talk is related to nucleic acids although any other related topics are welcomed; e.g. NA-binding proteins, ions, water, experimental/simulation techniques.
+ + It is preferable that the subject of talk is related to nucleic acids although any other related topics would be also welcomed; e.g. NA-binding proteins, ions, water, experimental/simulation techniques.
+ + Room reservations can be made here: https://research.utexas.edu/acesit/pob-room-reservations/
 
 
 #### Upcoming meetings
