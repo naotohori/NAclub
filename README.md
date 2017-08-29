@@ -1,14 +1,22 @@
 # Nucleic Acids Club
+ + The meeting is at 14:00 on every Monday at POB 2.444 unless otherwise noted.
+ + The talk would be either speaker's own research (any preliminary and/or technical stuff is good) or introductions of other's paper(s).
+ + It is preferable that the subject of talk is related to nucleic acids although any other related topics are welcomed; e.g. NA-binding proteins, ions, water, experimental/simulation techniques.
+
 
 #### Upcoming meetings
- + 2017/09/17 Hung @ POB 2.444
- + 2017/09/11 Debayan @ POB 2.444
- + 2017/09/04 Atreya @ POB 2.444
- + 2017/08/28 Upayan @ POB 2.444
+ + Naoto
+ + Hung
+ + 2017/09/17 Debayan @ POB 2.444
+ + 2017/09/11 Atreya @ POB 2.444 
+ + 2017/09/05 (Tue) Sumit @ POB 2.444
  
  
+#### 2017/08/28 Upayan
+On the dynamic correlation of water
+
 #### 2017/08/21 Upayan @ POB 2.404B
-On the spatial correlation of water and ion's effects
+On the spatial correlation of water
 
 #### 2017/08/14 Sumit @ POB 2.444
 DNA spools under tension  
