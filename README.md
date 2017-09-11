@@ -8,7 +8,7 @@
 #### Upcoming meetings
  + TBD Naoto
  + TBD Debayan
- + 2017/09/20 Hung @ POB 2.444
+ + 2017/09/20 Hung @ POB 2.444 (reserved)
  
 #### 2017/09/11 Atreya @ POB 2.444 
 Packing Defects Propagated During the Growth of Toroidal Condensates by Semiflexible Polymer Chains
