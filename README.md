@@ -1,5 +1,5 @@
 # Nucleic Acids Club
- + The meeting is at 14:00 on every Monday at POB 2.444 unless otherwise noted.
+ + The meeting is at 15:00 on every Wednesday at POB 2.444 unless otherwise noted.
  + The talk would be either speaker's own research (any preliminary and/or technical stuff is good) or introductions of other's paper(s).
  + It is preferable that the subject of talk is related to nucleic acids although any other related topics would be also welcomed; e.g. NA-binding proteins, ions, water, experimental/simulation techniques.
  + Room reservations can be made here: <https://research.utexas.edu/acesit/pob-room-reservations>
@@ -7,10 +7,11 @@
 
 #### Upcoming meetings
  + TBD Naoto
- + TBD Hung
- + 2017/09/18 Debayan @ POB 2.444
- + 2017/09/11 Atreya @ POB 2.444 
+ + TBD Debayan
+ + 2017/09/20 Hung @ POB 2.444
  
+#### 2017/09/11 Atreya @ POB 2.444 
+Packing Defects Propagated During the Growth of Toroidal Condensates by Semiflexible Polymer Chains
  
 #### 2017/09/05 Sumit @ POB 2.444
 Stretching of Homopolymeric RNA Reveals Single-Stranded Helices and Base-Stacking  
