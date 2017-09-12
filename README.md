@@ -7,6 +7,12 @@
 
 #### Upcoming meetings
  + TBD Naoto
+ + TBD Hung
+ + TBD Debayan
+ + TBD Atreya
+ + TBD Upayan
+ + TBD Sumit
+ + TBD Naoto
  + TBD Debayan
  + 2017/09/20 Hung @ POB 2.444 (reserved)
  
