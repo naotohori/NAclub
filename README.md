@@ -21,11 +21,11 @@ Packing Defects Propagated During the Growth of Toroidal Condensates by Semiflex
  
 #### 2017/09/05 Sumit @ POB 2.444
 Stretching of Homopolymeric RNA Reveals Single-Stranded Helices and Base-Stacking  
-Seol, Skinner, Visscher, PRL (2007) https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.98.158103  
+Seol, Skinner, Visscher, PRL (2007) <https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.98.158103>  
   
 Relevant papers  
-https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.84.2160  
-https://journals.aps.org/pre/pdf/10.1103/PhysRevE.70.020902
+<https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.84.2160>  
+<https://journals.aps.org/pre/pdf/10.1103/PhysRevE.70.020902>
  
 #### 2017/08/28 Upayan
 On the dynamic correlation of water
