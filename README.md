@@ -14,8 +14,11 @@
  + TBD Sumit
  + TBD Naoto
  + TBD Debayan
- + 2017/09/20 Hung @ POB 2.444 (reserved)
  
+#### 2017/09/20 Hung @ POB 2.444
+Estimation of Relative Protein–RNA Binding Strengths from Fluctuations in the Bound State  
+Zhaleh Ghaemi, ..., Martin Gruebele, and Zaida Luthey-Schulten, JCTC (2016) <http://dx.doi.org/10.1021/acs.jpcb.7b04318>
+
 #### 2017/09/11 Atreya @ POB 2.444 
 Packing Defects Propagated During the Growth of Toroidal Condensates by Semiflexible Polymer Chains
  
