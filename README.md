@@ -12,8 +12,8 @@
  + TBD Atreya
  + TBD Upayan
  + TBD Sumit
- + TBD Naoto
- + TBD Debayan
+ + 2017/10/25 Debayan @ POB 2.444 (Reserved)
+ + 2017/10/18 Naoto @ POB 2.444 (Reserved)
  
 #### 2017/09/20 Hung @ POB 2.444
 Estimation of Relative Protein–RNA Binding Strengths from Fluctuations in the Bound State  
