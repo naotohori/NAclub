@@ -15,10 +15,10 @@
  + 2017/10/25 Debayan @ POB 2.444 (Reserved)
  
 #### 2017/10/18 Naoto @ POB 2.444
-Toehold Switches: De-Novo-Designed Regulators of Gene Expression
+Toehold Switches: De-Novo-Designed Regulators of Gene Expression  
 A.A. Green, ..., Peng Yin, Cell (2014) <http://dx.doi.org/10.1016/j.cell.2014.10.002>  
   
-Complex cellular logic computation using ribocomputing devices
+Complex cellular logic computation using ribocomputing devices  
 A.A. Green, ..., Peng Yin, Nature (2017) <http://dx.doi.org/10.1038/nature23271>
  
 #### 2017/09/20 Hung @ POB 2.444
