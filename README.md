@@ -10,8 +10,8 @@
  + TBD Hung
  + TBD Debayan
  + TBD Atreya
- + 2017/11/08 Upayan
- + 2017/11/01 Sumit
+ + 2017/11/08 Upayan (Room reserved)
+ + 2017/11/01 Sumit (Room reserved)
  
  
 #### 2017/10/25 @ POB 2.444 Debayan
