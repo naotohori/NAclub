@@ -10,25 +10,29 @@
  + TBD Hung
  + TBD Debayan
  + TBD Atreya
- + TBD Upayan
- + TBD Sumit
- + 2017/10/25 Debayan @ POB 2.444 (Reserved)
+ + 2017/11/08 Upayan
+ + 2017/11/01 Sumit
  
-#### 2017/10/18 Naoto @ POB 2.444
+ 
+#### 2017/10/25 @ POB 2.444 Debayan
+Crowding-Induced Hybridization of Single DNA Hairpins  
+L.E. Baltierra-Jasso, ..., S.W. Magennis, JACS (2015) <http://dx.doi.org/10.1021/jacs.5b11829>
+ 
+#### 2017/10/18 @ POB 2.444 Naoto
 Toehold Switches: De-Novo-Designed Regulators of Gene Expression  
 A.A. Green, ..., Peng Yin, Cell (2014) <http://dx.doi.org/10.1016/j.cell.2014.10.002>  
   
 Complex cellular logic computation using ribocomputing devices  
 A.A. Green, ..., Peng Yin, Nature (2017) <http://dx.doi.org/10.1038/nature23271>
  
-#### 2017/09/20 Hung @ POB 2.444
+#### 2017/09/20 @ POB 2.444 Hung
 Estimation of Relative Protein–RNA Binding Strengths from Fluctuations in the Bound State  
 Zhaleh Ghaemi, ..., Martin Gruebele, and Zaida Luthey-Schulten, JCTC (2016) <http://dx.doi.org/10.1021/acs.jpcb.7b04318>
 
-#### 2017/09/11 Atreya @ POB 2.444 
+#### 2017/09/11 @ POB 2.444 Atreya 
 Packing Defects Propagated During the Growth of Toroidal Condensates by Semiflexible Polymer Chains
  
-#### 2017/09/05 Sumit @ POB 2.444
+#### 2017/09/05 @ POB 2.444 Sumit
 Stretching of Homopolymeric RNA Reveals Single-Stranded Helices and Base-Stacking  
 Seol, Skinner, Visscher, PRL (2007) <https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.98.158103>  
   
