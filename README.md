@@ -11,8 +11,10 @@
  + TBD Debayan
  + TBD Atreya
  + 2017/11/08 Upayan (Room reserved)
- + 2017/11/01 Sumit (Room reserved)
  
+#### 2017/11/01 Sumit
+DNA spools under tension (derivation)  
+I. M. Kulić and H. Schiessel, PRL (2004) [10.1103/PhysRevLett.92.228101](https://doi.org/10.1103/PhysRevLett.92.228101)
  
 #### 2017/10/25 @ POB 2.444 Debayan
 Crowding-Induced Hybridization of Single DNA Hairpins  
