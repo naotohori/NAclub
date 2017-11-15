@@ -10,11 +10,23 @@
  + TBD Hung
  + TBD Debayan
  + TBD Atreya
- + 2017/11/08 Upayan (Room reserved)
+ 
+ 
+#### 2017/11/08 Upayan
+Formation and Maturation of Phase-Separated Liquid Droplets by RNA-Binding Proteins  
+Y Lin, et al. and Roy Parker, Mol. Cell (2015) <http://dx.doi.org/10.1016/j.molcel.2015.08.018>
+
+References :
+ + <http://www.cell.com/cell/abstract/S0092-8674(17)30242-8>
+ + <https://www.nature.com/nphys/journal/v11/n11/full/nphys3532.html>
+ + <http://www.sciencedirect.com/science/article/pii/S009286741631666X?via%3Dihub>
+ + <http://www.cell.com/current-biology/abstract/S0960-9822(15)00014-7>
+ + <http://www.cell.com/cell-reports/abstract/S2211-1247(16)31212-8>
+
  
 #### 2017/11/01 Sumit
 DNA spools under tension (derivation)  
-I. M. Kulić and H. Schiessel, PRL (2004) [10.1103/PhysRevLett.92.228101](https://doi.org/10.1103/PhysRevLett.92.228101)
+I. M. Kulić and H. Schiessel, PRL (2004) [10.1103/PhysRevLett.92.228101](https://dx.doi.org/10.1103/PhysRevLett.92.228101)
  
 #### 2017/10/25 @ POB 2.444 Debayan
 Crowding-Induced Hybridization of Single DNA Hairpins  
