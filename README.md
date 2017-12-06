@@ -12,11 +12,11 @@
  
 #### 2017/12/06 Hung
 RNA phase transitions in repeat expansion disorders  
-Ankur Jain & Ronald D. Vale (2017) Nature <http://dx.doi.org/10.1038/nature22386>
+Ankur Jain & Ronald D. Vale (2017) Nature [10.1038/nature22386]<http://dx.doi.org/10.1038/nature22386>
 
 #### 2017/11/08 Upayan
 Formation and Maturation of Phase-Separated Liquid Droplets by RNA-Binding Proteins  
-Y Lin, et al. and Roy Parker, Mol. Cell (2015) <http://dx.doi.org/10.1016/j.molcel.2015.08.018>
+Y Lin, et al. and Roy Parker, Mol. Cell (2015) [10.1016/j.molcel.2015.08.018]<http://dx.doi.org/10.1016/j.molcel.2015.08.018>
 
 References :
  + <http://www.cell.com/cell/abstract/S0092-8674(17)30242-8>
