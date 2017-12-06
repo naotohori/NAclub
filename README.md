@@ -6,12 +6,14 @@
 
 
 #### Upcoming meetings
- + TBD Naoto
- + TBD Hung
- + TBD Debayan
- + TBD Atreya
+ + TBD Sumit
+ + TBD Upayan
+ + 2017/12/13 Naoto
  
- 
+#### 2017/12/06 Hung
+RNA phase transitions in repeat expansion disorders  
+Ankur Jain & Ronald D. Vale (2017) Nature <http://dx.doi.org/10.1038/nature22386>
+
 #### 2017/11/08 Upayan
 Formation and Maturation of Phase-Separated Liquid Droplets by RNA-Binding Proteins  
 Y Lin, et al. and Roy Parker, Mol. Cell (2015) <http://dx.doi.org/10.1016/j.molcel.2015.08.018>
