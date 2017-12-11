@@ -6,9 +6,8 @@
 
 
 #### Upcoming meetings
- + TBD Sumit
- + TBD Upayan
- + 2017/12/13 Naoto
+ + 2017/12/20 TBD (3 pm at POB 2.404B)
+ + 2017/12/13 Naoto (3 pm at POB 2.404B)
  
 #### 2017/12/06 Hung
 RNA phase transitions in repeat expansion disorders  
