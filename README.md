@@ -7,8 +7,11 @@
 
 #### Upcoming meetings
  + 2017/12/20 TBD (3 pm at POB 2.404B)
- + 2017/12/13 Naoto (3 pm at POB 2.404B)
  
+#### 2017/12/13 Naoto (3 pm at POB 2.404B)
+Sequence-dependent persistence length of DNA  
+HM Chuang et al. and KD Dorfman (2017) Phys Rev Lett [10.1103/PhysRevLett.119.227802](http://dx.doi.org/10.1103/PhysRevLett.119.227802)
+
 #### 2017/12/06 Hung
 RNA phase transitions in repeat expansion disorders  
 Ankur Jain & Ronald D. Vale (2017) Nature [10.1038/nature22386](http://dx.doi.org/10.1038/nature22386)
