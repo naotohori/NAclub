@@ -6,7 +6,7 @@
 
 
 #### Upcoming meetings
- + 2017/12/20 TBD (3 pm at POB 2.404B)
+ + 2017/12/20 Huong (3 pm at POB 2.404B)
  
 #### 2017/12/13 Naoto (3 pm at POB 2.404B)
 Sequence-dependent persistence length of DNA  
