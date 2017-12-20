@@ -6,8 +6,13 @@
 
 
 #### Upcoming meetings
- + 2017/12/20 Huong (3 pm at POB 2.404B)
+ + 2018/01/03 TBD
+ + 2017/12/27 TBD
  
+#### 2017/12/20 Huong (3 pm at POB 2.404B)
+Ribosomes are optimized for autocatalytic production  
+S Reuveni, M Ehrenberg & J Paulsson (2017) Nature [10.1038/nature22998](http://dx.doi.org/10.1038/nature22998)
+
 #### 2017/12/13 Naoto (3 pm at POB 2.404B)
 Sequence-dependent persistence length of DNA  
 HM Chuang et al. and KD Dorfman (2017) Phys Rev Lett [10.1103/PhysRevLett.119.227802](http://dx.doi.org/10.1103/PhysRevLett.119.227802)
