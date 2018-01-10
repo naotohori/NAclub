@@ -7,7 +7,7 @@
 
 #### Upcoming meetings
  + 2018/01/17 TBD
- + 2018/01/10 Debayan 3 pm at POB 2.404B
+ + 2018/01/11 Debayan 2 pm at POB 2.444
  + 2017/12/27 no meeting, Happy Holiday!!
  
 #### 2017/12/20 Huong (3 pm at POB 2.404B)
