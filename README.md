@@ -6,9 +6,12 @@
 
 
 #### Upcoming meetings
- + 2018/01/17 TBD
- + 2018/01/11 Debayan 2 pm at POB 2.444
- + 2017/12/27 no meeting, Happy Holiday!!
+ + 2018/01/17 Sumit
+ 
+#### 2018/01/11 Debayan 2 pm at POB 2.444
+Enhanced spontaneous DNA twisting/bending fluctuations unveiled by fluorescence lifetime distributions promote mismatch recognition by the Rad4 nucleotide excision repair complex  
+S Chakraborty, PJ Steinbach, D Paul, H Mu, S Broyde, JH Min, A Ansari (2017) NAR [10.1093/nar/gkx1216](http://dx.doi.org/10.1093/nar/gkx1216)
+
  
 #### 2017/12/20 Huong (3 pm at POB 2.404B)
 Ribosomes are optimized for autocatalytic production  
