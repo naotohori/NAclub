@@ -6,7 +6,12 @@
 
 
 #### Upcoming meetings
- + 2018/01/17 Sumit
+
+
+#### 2018/01/17 Sumit
+Physics behind the mechanical nucleosome positioning code  
+Martijn Zuiddam, Ralf Everaers, and Helmut Schiessel (2017) Phys Rev. E [10.1103/PhysRevE.96.052412](http://dx.doi.org/10.1103/PhysRevE.96.052412)
+ 
  
 #### 2018/01/11 Debayan 2 pm at POB 2.444
 Enhanced spontaneous DNA twisting/bending fluctuations unveiled by fluorescence lifetime distributions promote mismatch recognition by the Rad4 nucleotide excision repair complex  
