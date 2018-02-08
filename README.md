@@ -6,6 +6,11 @@
 
 
 #### Upcoming meetings
+ * Tuesday 2PM
+
+#### 2018/02/08 Atreya
+Shape, flexibility and packing of proteins and nucleic acids in complexes  
+Nidhi Rawata and Parbati Biswas (2011) PCCP [10.1039/C1CP00027F](http://dx.doi.org/10.1039/C1CP00027F)
 
 
 #### 2018/01/17 Sumit
