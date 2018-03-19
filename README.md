@@ -6,7 +6,12 @@
 
 
 #### Upcoming meetings
- * Tuesday 2PM
+ * Tuesday 3 PM
+ 
+#### 2018/03/20 Hung
+
+#### 2018/03/13 Atreya
+Review: Does DNA methylation affect nucleosome dynamics?
 
 #### 2018/02/08 Atreya
 Shape, flexibility and packing of proteins and nucleic acids in complexes  
