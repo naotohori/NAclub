@@ -9,6 +9,7 @@
  * Tuesday 3 PM
  
 #### 2018/03/20 Hung
+Introduction to OpenMM
 
 #### 2018/03/13 Atreya
 Review: Does DNA methylation affect nucleosome dynamics?
