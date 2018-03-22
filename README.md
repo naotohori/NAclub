@@ -8,7 +8,7 @@
 #### Upcoming meetings
  * Tuesday 3 PM
  
-#### 2018/03/20 Hung
+#### 2018/03/22 Hung
 Introduction to OpenMM
 
 #### 2018/03/13 Atreya
