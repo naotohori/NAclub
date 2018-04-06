@@ -8,6 +8,13 @@
 #### Upcoming meetings
  * Tuesday 3 PM
  
+#### 2018/04/05 Naoto
+Nascent RNA chain dynamics
+ 
+#### 2018/03/29 Stuart Sevier 
+Properties of Gene Expression and Chromatin Structure with Mechanically Regulated Transcription  
+[10.1101/262717](https://doi.org/10.1101/262717)
+
 #### 2018/03/22 Hung
 Introduction to OpenMM
 
