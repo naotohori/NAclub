@@ -9,7 +9,9 @@
  * Tuesday 3 PM
  
 #### 2018/04/05 Naoto
-Nascent RNA chain dynamics
+Duplex and Triplex RNA/DNA
+Lesnik & Freier (2002) Biochemistry http://doi.org/10.1021/bi00034a013  
+Bacolla et al. (2015) PLOS Genetics http://doi.org/10.1371/journal.pgen.1005696
  
 #### 2018/03/29 Stuart Sevier 
 Properties of Gene Expression and Chromatin Structure with Mechanically Regulated Transcription  
