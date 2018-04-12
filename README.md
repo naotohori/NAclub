@@ -6,12 +6,16 @@
 
 
 #### Upcoming meetings
- * Tuesday 3 PM
- 
+ * Thursday 3:30 PM 
+
+#### 2018/04/12 Huong
+Direct evidence for sequence-dependent attraction between double-stranded DNA controlled by methylation  
+Yoo, Kim, Aksimentiev, Ha, Nat Commun [10.1038/ncomms11045](http://dx.doi.org/10.1038/ncomms11045)
+
 #### 2018/04/05 Naoto
 Duplex and Triplex RNA/DNA  
-Lesnik & Freier (2002) Biochemistry http://doi.org/10.1021/bi00034a013  
-Bacolla et al. (2015) PLOS Genetics http://doi.org/10.1371/journal.pgen.1005696
+Lesnik & Freier (2002) Biochemistry [10.1021/bi00034a013](http://doi.org/10.1021/bi00034a013)  
+Bacolla et al. (2015) PLOS Genetics [10.1371/journal.pgen.1005696](http://doi.org/10.1371/journal.pgen.1005696)
  
 #### 2018/03/29 Stuart Sevier 
 Properties of Gene Expression and Chromatin Structure with Mechanically Regulated Transcription  
