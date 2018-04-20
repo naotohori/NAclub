@@ -7,6 +7,9 @@
 
 #### Upcoming meetings
  * Thursday 3:30 PM 
+ 
+#### 2018/04/19 Atreya
+On a polymer model toward understanding of FRET signals.  
 
 #### 2018/04/12 Huong
 Direct evidence for sequence-dependent attraction between double-stranded DNA controlled by methylation  
