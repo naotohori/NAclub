@@ -8,6 +8,10 @@
 #### Upcoming meetings
  * Thursday 3:30 PM 
  
+#### 2018/05/02 Hung
+Intrinsically disordered linkers determine the interplay between phase separation and gelation in multivalent proteins  
+Harmon et al. and Pappu (2017) eLife [10.7554/eLife.30294](http://dx.doi.org/10.7554/eLife.30294)
+
 #### 2018/04/19 Atreya
 On a polymer model toward understanding of FRET signals.  
 
